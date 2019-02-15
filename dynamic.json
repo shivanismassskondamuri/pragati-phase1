@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"resumeicon.png",
+		"name":"kondamuri sivani",
+		"roll":"17A31B0518",
+		"place":"kakinada",
+		"des":"student"
+	},
+"career":{
+	"info":"i want to gain knowledge"
+},
+"education":[
+{
+"sno":"1",
+"degree":"BTECH",
+"institute":"pragati engineering college",
+"per":"85%",
+"yop":"2021"
+},
+{
+	"sno":"2",
+	"degree":"intermediate",
+	"institute":"geetam junior college",
+	"per":"90%",
+	"yop":"2017"
+},
+{
+	"sno":"3",
+	"degree":"ssc",
+	"institute":"prathibha public school",
+	"per":"90%",
+	"yop":"2015"	
+}
+],
+"languages":[
+{
+"lang":"english"
+},
+{
+"lang":"hindi"
+},
+{
+"lang":"telugu"
+}
+]
+
+}
